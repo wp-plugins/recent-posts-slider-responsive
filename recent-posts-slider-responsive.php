@@ -187,6 +187,8 @@ function rpf_display_slider( $category_ids=null, $total_posts=null, $post_per_sl
 						$thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post_details[$p]['post_id']), 'medium' );
 					}elseif ( $slider_image_size == 3 ){
 						$thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post_details[$p]['post_id']), 'large' );
+					}elseif ( $slider_image_size == 4 ){
+						$thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post_details[$p]['post_id']), 'full' );
 					}
 					$url = $thumb['0'];
 					$output .= '<li class="main-div">';

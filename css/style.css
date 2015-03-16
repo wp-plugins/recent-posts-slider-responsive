@@ -71,6 +71,7 @@
 	border: 1px solid #ddd;
 	background: #fff;
 	padding: 2px;
+	box-sizing: border-box;
 }
 .rpf-slider{
 	display: block;
