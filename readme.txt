@@ -6,7 +6,7 @@ Donate link: http://www.anitamourya.com/donate
 
 Tags: responsive slider, responsive carousel, posts, recent, recent posts, recent post, slider, latest posts, posts slider, posts carousel
 
-Requires at least: 1.0.0
+Requires at least: 1.0.1
 
 Tested up to: 4.1
 
@@ -100,10 +100,16 @@ Please add them in WordPress Plugin support section
 
 == Changelog ==
 
+= 1.0.1 =
+* Rectifying the option "Full" option of Slider Image size and border boxing applied to Slider image.
+
 = 1.0.0 =
 * Initial release version.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Rectifying the option "Full" option of Slider Image size and border boxing applied to Slider image.
 
 = 1.0.0 =
 * Initial release version.

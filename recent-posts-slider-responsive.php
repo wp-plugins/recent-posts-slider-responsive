@@ -3,7 +3,7 @@
  * Plugin Name: Recent Posts Slider Responsive
  * Plugin URI: http://anitamourya.com
  * Description: This plugin displays recent post slider responsive.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Anita Mourya
  * Author URI: http://anitamourya.com
  * License: GPL2
